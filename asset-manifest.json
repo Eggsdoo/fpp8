@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/fpp8/static/css/main.f855e6bc.css",
-    "main.js": "/fpp8/static/js/main.6da17890.js",
+    "main.css": "/fpp8/static/css/main.89b18670.css",
+    "main.js": "/fpp8/static/js/main.814d3abe.js",
     "static/js/453.fd717b94.chunk.js": "/fpp8/static/js/453.fd717b94.chunk.js",
+    "static/media/rayan-s.png": "/fpp8/static/media/rayan-s.d74e13847753380adc1f.png",
+    "static/media/tareq-a.png": "/fpp8/static/media/tareq-a.2d3dfb57b2f646fd82ab.png",
+    "static/media/manal-s.png": "/fpp8/static/media/manal-s.16d947889f1da76a6395.png",
+    "static/media/sarrah-m.png": "/fpp8/static/media/sarrah-m.169e08e7764a53efbc0f.png",
+    "static/media/shaeib-a.png": "/fpp8/static/media/shaeib-a.ac60a128e97527aea1f7.png",
+    "static/media/dilkusha-s.png": "/fpp8/static/media/dilkusha-s.133f7c851f7902ea6ba6.png",
+    "static/media/PAP-Campaign.pdf": "/fpp8/static/media/PAP-Campaign.56a4ec6e7c7eaad31a5a.pdf",
+    "static/media/pap-logo.png": "/fpp8/static/media/pap-logo.7b0a7898b7f4357e5da6.png",
+    "static/media/pap-bg.jpg": "/fpp8/static/media/pap-bg.648ee744ba1ef96160ff.jpg",
     "index.html": "/fpp8/index.html",
-    "main.f855e6bc.css.map": "/fpp8/static/css/main.f855e6bc.css.map",
-    "main.6da17890.js.map": "/fpp8/static/js/main.6da17890.js.map",
+    "main.89b18670.css.map": "/fpp8/static/css/main.89b18670.css.map",
+    "main.814d3abe.js.map": "/fpp8/static/js/main.814d3abe.js.map",
     "453.fd717b94.chunk.js.map": "/fpp8/static/js/453.fd717b94.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6da17890.js"
+    "static/css/main.89b18670.css",
+    "static/js/main.814d3abe.js"
   ]
 }
